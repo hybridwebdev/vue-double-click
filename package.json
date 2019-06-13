@@ -1,0 +1,24 @@
+{
+  "name": "vue-double-click-confirm",
+  "version": "1.0.0",
+  "description": "A directive for vue, that requires a double click to perform an action. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hybridwebdev/vue-double-click.git"
+  },
+  "keywords": [
+    "vue",
+    "directive"
+  ],
+  "author": "Justin Lindsay <justinalindsay@gmail.com> (http://hybridwebdev.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hybridwebdev/vue-double-click/issues"
+  },
+  "homepage": "https://github.com/hybridwebdev/vue-double-click#readme",
+  "dependencies": {}
+}
